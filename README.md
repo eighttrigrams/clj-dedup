@@ -2,6 +2,8 @@
 
 Duplicate code detection for Clojure, leveraging homoiconicity.
 
+**NOTE** This is vibe-coded/researched and just an experiment.
+
 ## Install
 
 Requires [bbin](https://github.com/babashka/bbin).
